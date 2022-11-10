@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shawon-Singha
+- 👋 Hi, I’m Shawon-Singha
 - 👀 I’m interested in CYBER SECURITY
 - 🌱 I’m currently learning C language
 - 💞️ I’m looking to collaborate on CYBER SECURITY
