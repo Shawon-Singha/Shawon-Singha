@@ -35,12 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shawon-Singha&" alt="Shawon-Singha" /></p>
 
-<br>
-<h3 align="left">Language</h3>
-<ul> 
-    
-    <li><abbr tittle="Bangladesh"></abbr><sub><small>BD</small></sub></sub>Bangla:Native</li>
-    <li>English: Intermediate</li>
-    <li>Hindi: Intermediate</li>
 
-</ul>
