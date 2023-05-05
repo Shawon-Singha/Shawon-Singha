@@ -7,11 +7,11 @@
 
 -  🔭 I’m currently studying on Computer Science & Engineeringing.<br>
 
-- 🌱 I’m currently learning CSS & Java.<br>
+- 🌱 I’m currently learning CPP & Java.<br>
 
 - 🤝 I’m looking for help with who guide me like a guardian.<br>
 
-- 💬 Ask me about C & HTML.<br>
+- 💬 Ask me about C,HTML,Java.<br>
 
 - 📫 How to reach me shawonkumarsingha.cse@gmail.com.<br>
 
