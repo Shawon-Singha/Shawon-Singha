@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=4600&pause=990&center=true&vCenter=true&width=435&lines=%40Shawon-Singha;Welcome+to+Shawon's Era;Student+of+CSE;Competitve+Programmer" alt="Typing SVG" />
 
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
+<br><br><br><br><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shawon-Singha&label=Profile%20views&color=0e75b6&style=flat" alt="Shawon-Singha" /> </p>
 
 -  
