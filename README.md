@@ -7,8 +7,7 @@
 
 -  
 - 🌱 I’m currently learning CSS & Java.<br>
-- 🌱 I’m currently learning CPP & Java.<br>
-
+  
 - 🤝 I’m looking for help with who guide me like a guardian.<br>
 
 - 💬 Ask me about C & HTML.<br>
