@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/shawon-singha-42826623b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shawon-singha-42826623b/" height="30" width="40" /></a>
   
 <a href="https://codeforces.com/profile/Shawon-Singha">
-  <img src="https://raw.githubusercontent.com/Shawon-Singha/ct-stats/main/output/max_rating.svg" />
+  <img src="https://codeforces.com/submissions/Shawon-Singha/ct-stats/main/output/max_rating.svg" />
 </a>
 
 </p>
