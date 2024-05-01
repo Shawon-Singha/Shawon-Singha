@@ -6,12 +6,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shawon-Singha" alt="Shawon-Singha" /></a> </p>
 
-- 
-- 🌱 I’m currently learning CSS & DSA.<br>
+ 
+- 🌱 I’m currently learning Pyhton.<br>
   
 - 🤝 I’m looking for help with who guide me like a guardian.<br>
 
-- 💬 Ask me about C & HTML.<br>
+- 💬 Ask me about C,C++,HTML,Java<br>
   
 - 📫 How to reach me shawonkumarsingha.cse@gmail.com.<br>
 
